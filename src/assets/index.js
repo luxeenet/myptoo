@@ -27,7 +27,7 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import tcs from "./company/tcs.png";
 import intelligence from "./company/intelligence.png";
-import intelligence2 from "./src/assets/intelligence2.JPG";
+//import intelligence2 from "./src/assets/intelligence2.JPG";
 import sun from "./company/sun.png";
 
 import carrent from "./carrent.png";
@@ -69,6 +69,6 @@ export {
   intelligence,
   sun,
   payment,
-  intelligence2,
+  
   rental
 };
