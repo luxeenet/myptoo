@@ -27,7 +27,7 @@ import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import tcs from "./company/tcs.png";
 import intelligence from "./company/intelligence.png";
-import intelligence2 from "./intelligence2.jpg";
+import intelligence2 from "./src/intelligence2.jpg";
 import sun from "./company/sun.png";
 
 import carrent from "./carrent.png";
