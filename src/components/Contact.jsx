@@ -152,14 +152,13 @@ const Contact = () => {
   const [loading, setLoading] = useState(false);
 
   const announcement = `
-     we are back!.
-     I wish everyone good luck on their programming journey. Beginners, don’t give up. The errors, the confusion—it’s all part of the process.
+     we are back!.I wish everyone good luck on their programming journey. Whether you're a seasoned developer or just starting, keep pushing forward. Beginners, never give up. Every great programmer was once lost in a sea of errors, confused by logic that didn’t make sense. The struggles you face today will become your strengths tomorrow.
 
-But remember, you are not a machine. Don’t spend all your time on a PC. Engage in other businesses, live, grow.
+But remember this—you are not a machine. Programming is powerful, but don’t let it consume your entire world. Life exists beyond the screen. Engage in other businesses, explore new ideas, build connections, and experience the world outside of code.
 
-And a thought for the deep minds: What if intelligence is just an infinite loop? What if the ultimate code is already written in the universe, waiting to be compiled?
+And for those who seek deeper meaning: What if intelligence is an infinite loop? What if we are simply recursive functions calling ourselves, trapped in a system we can’t debug? Maybe the ultimate algorithm of life is already written, scattered across existence, waiting to be compiled.
 
-Think, code, but don’t lose yourself.
+Think deeply, code wisely, and never lose yourself. 
   `;
 
   return (
